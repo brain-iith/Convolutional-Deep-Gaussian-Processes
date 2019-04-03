@@ -1,0 +1,488 @@
+Intializing inducing variables
+building 2 layered model
+building 3 layered model
+building 4 layered model
+training 2 layered model
+epoch---0done.
+validation lik: -0.6931, validation acc 0.5013
+epoch---1done.
+epoch time ===  160.312251329422
+epoch---2done.
+epoch time ===  70.96646237373352
+epoch---3done.
+epoch time ===  73.84110069274902
+epoch---4done.
+epoch time ===  74.06196761131287
+epoch---5done.
+epoch time ===  77.31663751602173
+validation lik: -0.7084, validation acc 0.7213
+epoch---6done.
+epoch time ===  165.42832207679749
+epoch---7done.
+epoch time ===  79.71213674545288
+epoch---8done.
+epoch time ===  82.94599890708923
+epoch---9done.
+epoch time ===  83.87287044525146
+epoch---10done.
+epoch time ===  85.89474821090698
+validation lik: -0.6873, validation acc 0.7300
+epoch---11done.
+epoch time ===  174.77478528022766
+epoch---12done.
+epoch time ===  88.93029069900513
+epoch---13done.
+epoch time ===  92.118155002594
+epoch---14done.
+epoch time ===  95.11155581474304
+epoch---15done.
+epoch time ===  97.25697612762451
+validation lik: -0.6757, validation acc 0.7400
+epoch---16done.
+epoch time ===  190.27039861679077
+epoch---17done.
+epoch time ===  105.58935642242432
+epoch---18done.
+epoch time ===  110.30228877067566
+epoch---19done.
+epoch time ===  113.1225597858429
+epoch---20done.
+epoch time ===  117.23495721817017
+validation lik: -0.6647, validation acc 0.7406
+epoch---21done.
+epoch time ===  207.62240982055664
+epoch---22done.
+epoch time ===  124.90628910064697
+epoch---23done.
+epoch time ===  128.24093556404114
+epoch---24done.
+epoch time ===  131.94247388839722
+epoch---25done.
+epoch time ===  133.52030491828918
+validation lik: -0.6495, validation acc 0.7453
+epoch---26done.
+epoch time ===  228.41973185539246
+epoch---27done.
+epoch time ===  146.48848819732666
+epoch---28done.
+epoch time ===  150.30966925621033
+epoch---29done.
+epoch time ===  156.97427701950073
+epoch---30done.
+epoch time ===  159.62124109268188
+validation lik: -0.6640, validation acc 0.7444
+epoch---31done.
+epoch time ===  251.23325896263123
+epoch---32done.
+epoch time ===  170.02327585220337
+epoch---33done.
+epoch time ===  172.45181727409363
+epoch---34done.
+epoch time ===  174.10366368293762
+epoch---35done.
+epoch time ===  179.74717736244202
+validation lik: -0.6491, validation acc 0.7458
+epoch---36done.
+epoch time ===  274.4278733730316
+epoch---37done.
+epoch time ===  191.88331389427185
+epoch---38done.
+epoch time ===  195.32044982910156
+epoch---39done.
+epoch time ===  202.2094328403473
+epoch---40done.
+epoch time ===  209.14626383781433
+validation lik: -0.6779, validation acc 0.7379
+epoch---41done.
+epoch time ===  303.1237120628357
+epoch---42done.
+epoch time ===  231.71227622032166
+epoch---43done.
+epoch time ===  224.87422227859497
+epoch---44done.
+epoch time ===  232.50597548484802
+epoch---45done.
+epoch time ===  241.74171423912048
+validation lik: -0.6722, validation acc 0.7449
+epoch---46done.
+epoch time ===  337.0263409614563
+epoch---47done.
+epoch time ===  253.84464526176453
+epoch---48done.
+epoch time ===  260.9671664237976
+epoch---49done.
+epoch time ===  266.195832490921
+epoch---50done.
+epoch time ===  271.8642518520355
+validation lik: -0.6660, validation acc 0.7427
+epoch---51done.
+epoch time ===  370.0445327758789
+epoch---52done.
+epoch time ===  287.66712260246277
+epoch---53done.
+epoch time ===  295.5764443874359
+epoch---54done.
+epoch time ===  303.6308584213257
+epoch---55done.
+epoch time ===  310.7760932445526
+validation lik: -0.6475, validation acc 0.7443
+epoch---56done.
+epoch time ===  405.4276807308197
+epoch---57done.
+epoch time ===  328.2426733970642
+epoch---58done.
+epoch time ===  334.37410044670105
+epoch---59done.
+epoch time ===  344.1530911922455
+epoch---60done.
+epoch time ===  350.54291319847107
+validation lik: -0.6425, validation acc 0.7513
+epoch---61done.
+epoch time ===  442.61195492744446
+epoch---62done.
+epoch time ===  365.27260637283325
+epoch---63done.
+epoch time ===  372.42378425598145
+epoch---64done.
+epoch time ===  383.9553875923157
+epoch---65done.
+epoch time ===  392.6768662929535
+validation lik: -0.6554, validation acc 0.7486
+epoch---66done.
+epoch time ===  488.0627489089966
+epoch---67done.
+epoch time ===  408.6568202972412
+epoch---68done.
+epoch time ===  416.5573606491089
+epoch---69done.
+epoch time ===  424.18924832344055
+epoch---70done.
+epoch time ===  435.8330512046814
+validation lik: -0.6463, validation acc 0.7479
+epoch---71done.
+epoch time ===  533.6498565673828
+epoch---72done.
+epoch time ===  463.17816257476807
+epoch---73done.
+epoch time ===  465.45448446273804
+epoch---74done.
+epoch time ===  475.80980706214905
+epoch---75done.
+epoch time ===  485.17640233039856
+validation lik: -0.6945, validation acc 0.7451
+epoch---76done.
+epoch time ===  584.5008697509766
+epoch---77done.
+epoch time ===  506.1786949634552
+epoch---78done.
+epoch time ===  515.324015378952
+epoch---79done.
+epoch time ===  526.2362480163574
+epoch---80done.
+epoch time ===  536.9622814655304
+validation lik: -0.6750, validation acc 0.7448
+epoch---81done.
+epoch time ===  631.1832849979401
+epoch---82done.
+epoch time ===  553.7317864894867
+epoch---83done.
+epoch time ===  564.3045053482056
+epoch---84done.
+epoch time ===  573.3871567249298
+epoch---85done.
+epoch time ===  586.2375297546387
+validation lik: -0.6584, validation acc 0.7442
+epoch---86done.
+epoch time ===  685.2204508781433
+epoch---87done.
+epoch time ===  609.0525367259979
+epoch---88done.
+epoch time ===  631.2478849887848
+epoch---89done.
+epoch time ===  666.5223581790924
+epoch---90done.
+epoch time ===  650.4423637390137
+validation lik: -0.6556, validation acc 0.7494
+epoch---91done.
+epoch time ===  745.4806938171387
+epoch---92done.
+epoch time ===  697.512975692749
+epoch---93done.
+epoch time ===  693.2010276317596
+epoch---94done.
+epoch time ===  690.3642158508301
+epoch---95done.
+epoch time ===  703.7419109344482
+validation lik: -0.6569, validation acc 0.7453
+epoch---96done.
+epoch time ===  805.8597390651703
+epoch---97done.
+epoch time ===  727.2077412605286
+epoch---98done.
+epoch time ===  738.2004165649414
+epoch---99done.
+epoch time ===  750.5987107753754
+epoch---100done.
+epoch time ===  764.8384690284729
+validation lik: -0.6594, validation acc 0.7474
+epoch---101done.
+epoch time ===  864.6242046356201
+epoch---102done.
+epoch time ===  789.5512113571167
+epoch---103done.
+epoch time ===  801.8052892684937
+epoch---104done.
+epoch time ===  817.9745318889618
+epoch---105done.
+epoch time ===  832.6991274356842
+validation lik: -0.6813, validation acc 0.7378
+epoch---106done.
+epoch time ===  936.2195792198181
+epoch---107done.
+epoch time ===  870.8552532196045
+epoch---108done.
+epoch time ===  871.2565529346466
+epoch---109done.
+epoch time ===  885.2823100090027
+epoch---110done.
+epoch time ===  905.1645653247833
+validation lik: -0.7064, validation acc 0.7463
+epoch---111done.
+epoch time ===  1001.6312067508698
+epoch---112done.
+epoch time ===  917.6536498069763
+epoch---113done.
+epoch time ===  936.4613659381866
+epoch---114done.
+epoch time ===  951.4882159233093
+epoch---115done.
+epoch time ===  965.1685945987701
+validation lik: -0.6761, validation acc 0.7418
+epoch---116done.
+epoch time ===  1071.6143906116486
+epoch---117done.
+epoch time ===  1000.9719579219818
+epoch---118done.
+epoch time ===  1012.8398730754852
+epoch---119done.
+epoch time ===  1027.5134348869324
+epoch---120done.
+epoch time ===  1039.2698378562927
+validation lik: -0.6755, validation acc 0.7448
+epoch---121done.
+epoch time ===  1142.1507596969604
+epoch---122done.
+epoch time ===  1070.870454788208
+epoch---123done.
+epoch time ===  1085.1380815505981
+epoch---124done.
+epoch time ===  1102.3090913295746
+epoch---125done.
+epoch time ===  1114.6567175388336
+validation lik: -0.6693, validation acc 0.7503
+epoch---126done.
+epoch time ===  1228.157024860382
+epoch---127done.
+epoch time ===  1146.4069883823395
+epoch---128done.
+epoch time ===  1173.5506324768066
+epoch---129done.
+epoch time ===  1179.7834310531616
+epoch---130done.
+epoch time ===  1197.715089082718
+validation lik: -0.6718, validation acc 0.7462
+epoch---131done.
+epoch time ===  1300.1853239536285
+epoch---132done.
+epoch time ===  1230.8473103046417
+epoch---133done.
+epoch time ===  1248.3621814250946
+epoch---134done.
+epoch time ===  1260.9906964302063
+epoch---135done.
+epoch time ===  1281.8289365768433
+validation lik: -0.6978, validation acc 0.7393
+epoch---136done.
+epoch time ===  1385.3226618766785
+epoch---137done.
+epoch time ===  1311.7363243103027
+epoch---138done.
+epoch time ===  1327.6646988391876
+epoch---139done.
+epoch time ===  1347.022579908371
+epoch---140done.
+epoch time ===  1363.1685373783112
+validation lik: -0.6444, validation acc 0.7487
+epoch---141done.
+epoch time ===  1467.7201058864594
+epoch---142done.
+epoch time ===  1406.0173106193542
+epoch---143done.
+epoch time ===  1416.7306168079376
+epoch---144done.
+epoch time ===  1438.9414710998535
+epoch---145done.
+epoch time ===  1453.9465742111206
+validation lik: -0.6522, validation acc 0.7476
+epoch---146done.
+epoch time ===  1562.8780806064606
+epoch---147done.
+epoch time ===  1495.1396300792694
+epoch---148done.
+epoch time ===  1509.181322336197
+epoch---149done.
+epoch time ===  1525.548671245575
+epoch---150done.
+epoch time ===  1545.2978630065918
+validation lik: -0.6654, validation acc 0.7480
+epoch---151done.
+epoch time ===  1649.3557448387146
+epoch---152done.
+epoch time ===  1579.8521683216095
+epoch---153done.
+epoch time ===  1605.1812691688538
+epoch---154done.
+epoch time ===  1624.1153237819672
+epoch---155done.
+epoch time ===  1638.794345855713
+validation lik: -0.6548, validation acc 0.7464
+epoch---156done.
+epoch time ===  1746.6275775432587
+epoch---157done.
+epoch time ===  1679.849677324295
+epoch---158done.
+epoch time ===  1703.4591097831726
+epoch---159done.
+epoch time ===  1722.1391472816467
+epoch---160done.
+epoch time ===  1737.4391672611237
+validation lik: -0.6705, validation acc 0.7476
+epoch---161done.
+epoch time ===  1858.6586799621582
+epoch---162done.
+epoch time ===  1785.001035451889
+epoch---163done.
+epoch time ===  1798.2608783245087
+epoch---164done.
+epoch time ===  1819.2278366088867
+epoch---165done.
+epoch time ===  1837.4671065807343
+validation lik: -0.6918, validation acc 0.7427
+epoch---166done.
+epoch time ===  1946.1100442409515
+epoch---167done.
+epoch time ===  1878.323565006256
+epoch---168done.
+epoch time ===  1901.408459186554
+epoch---169done.
+epoch time ===  1926.133430480957
+epoch---170done.
+epoch time ===  1945.6840162277222
+validation lik: -0.6475, validation acc 0.7477
+epoch---171done.
+epoch time ===  2050.849667787552
+epoch---172done.
+epoch time ===  1982.6433765888214
+epoch---173done.
+epoch time ===  2006.3609654903412
+epoch---174done.
+epoch time ===  2028.3009202480316
+epoch---175done.
+epoch time ===  2054.1466512680054
+validation lik: -0.6592, validation acc 0.7439
+epoch---176done.
+epoch time ===  2162.0801165103912
+epoch---177done.
+epoch time ===  2093.160260438919
+epoch---178done.
+epoch time ===  2117.964308977127
+epoch---179done.
+epoch time ===  2139.562808036804
+epoch---180done.
+epoch time ===  2163.214155435562
+validation lik: -0.6606, validation acc 0.7486
+epoch---181done.
+epoch time ===  2269.5051822662354
+epoch---182done.
+epoch time ===  2204.880175113678
+epoch---183done.
+epoch time ===  2226.2263493537903
+epoch---184done.
+epoch time ===  2247.4903094768524
+epoch---185done.
+epoch time ===  2267.9081251621246
+validation lik: -0.6270, validation acc 0.7520
+epoch---186done.
+epoch time ===  2392.355793237686
+epoch---187done.
+epoch time ===  2314.2613615989685
+epoch---188done.
+epoch time ===  2344.140385866165
+epoch---189done.
+epoch time ===  2370.868292093277
+epoch---190done.
+epoch time ===  2389.840973854065
+validation lik: -0.6415, validation acc 0.7485
+epoch---191done.
+epoch time ===  2496.8261349201202
+epoch---192done.
+epoch time ===  2428.8826751708984
+epoch---193done.
+epoch time ===  2456.364054918289
+epoch---194done.
+epoch time ===  2481.3223462104797
+epoch---195done.
+epoch time ===  2512.056669473648
+validation lik: -0.6628, validation acc 0.7471
+epoch---196done.
+epoch time ===  2624.630402803421
+epoch---197done.
+epoch time ===  2586.321964740753
+epoch---198done.
+epoch time ===  2590.344287633896
+epoch---199done.
+epoch time ===  2615.2708020210266
+epoch---200done.
+epoch time ===  2644.043482065201
+validation lik: -0.6530, validation acc 0.7484
+epoch---201done.
+epoch time ===  2755.583908557892
+epoch---202done.
+epoch time ===  2701.726969242096
+epoch---203done.
+epoch time ===  2724.717460155487
+epoch---204done.
+epoch time ===  2757.191914796829
+epoch---205done.
+epoch time ===  2780.6614582538605
+validation lik: -0.6483, validation acc 0.7488
+epoch---206done.
+epoch time ===  2897.928662776947
+epoch---207done.
+epoch time ===  2836.8777408599854
+epoch---208done.
+epoch time ===  2868.095793247223
+epoch---209done.
+epoch time ===  2898.672749519348
+epoch---210done.
+epoch time ===  2921.8636798858643
+validation lik: -0.6643, validation acc 0.7476
+epoch---211done.
+epoch time ===  3046.2658438682556
+epoch---212done.
+epoch time ===  2988.76504278183
+epoch---213done.
+epoch time ===  3021.560348033905
+epoch---214done.
+epoch time ===  3046.5273444652557
+epoch---215done.
+epoch time ===  3085.4735341072083
+validation lik: -0.6641, validation acc 0.7526
+epoch---216done.
+epoch time ===  3195.0648822784424
+epoch---217done.
+epoch time ===  3136.341796398163
+epoch---218done.
+epoch time ===  3171.4632182121277
+epoch---219done.
+epoch time ===  3195.6598691940308

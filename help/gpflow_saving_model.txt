@@ -1,0 +1,16 @@
+# to get parameters of model in a dictionary
+param_dict = m_dgp2.read_trainables()
+
+# saving into file using pickel
+import pickle
+f = open("file.pkl","wb")
+pickle.dump(param_dict,f)
+f.close()
+
+# Load the dictionary back from the pickle file.
+import pickle
+param_dict = pickle.load( open( "file.pkl", "rb" ) )
+
+
+make a similar model (say my_model)
+my_model.assign(param_dict)

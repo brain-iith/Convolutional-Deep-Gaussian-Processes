@@ -1,0 +1,17 @@
+to create new screen
+screen -S 'screenname'
+
+screen -ls (list existing screens)
+
+screen -r 'pid' (reattach to existing (detached)screens)
+
+inside screen
+
+enter exit to kill screen.
+
+ctrl-a to enter command mode. Then:
+
+w for all windows.
+k for killing windows.
+d for deattaching.
+ctrl-c for making new windows.

@@ -1,0 +1,41 @@
+ To create virtual env---
+pip install virtualenv
+virtualenv virtual_ts(could be any name)
+virtualenv -p python3 envname (for python3) 
+
+source virtual_ts/bin/activate - activating virtual environment
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/lib64/
+nvidia-smi
+CUDA_VISIBLE_DEVICES=1 
+ssh mehak@192.168.136.95
+ps -eo pid,euser | grep -e 17270 
+CUDA_VISIBLE_DEVICES=0 ipython grad-cam.py
+pip install tensorflow-gpu
+
+resnet50 - 0.39
+VGG16
+VGG19
+
+
+vaibhav server -------------- (use --user to install locally)
+pip install virtualenv (pip install --user virtualenv)
+
+write this to change path variable (required after opening terminal each time)
+PATH=$PATH:~/.local/bin
+
+To make changes permanently (~ this represent /home/vaibhav)
+Open a terminal window using Ctrl+Alt+T
+Run the command gedit ~/.bashrc
+Add the line
+
+export PATH=$PATH:~/.local/bin
+
+to the bottom and save
+
+Log out and log in again
+
+
+virtualenv virtual_ts(could be any name)
+source virtual_ts/bin/activate - activating virtual environment
+
+ps -u -p 1234

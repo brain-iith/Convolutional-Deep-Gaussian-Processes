@@ -1,0 +1,1 @@
+This contains the ongoing implementation of the dropout inference approach. Changes are mainly done in layers.py and dgp.py files.
